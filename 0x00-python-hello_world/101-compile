@@ -1,2 +1,0 @@
-#!/bin/bash
-python3 -c "import compileall; compileall.compile_file(\"$PYFILE\", legacy=True)"
