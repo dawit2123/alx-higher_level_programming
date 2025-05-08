@@ -1,5 +1,5 @@
 # 0x12 - JavaScript - Warm up
-## General
+## General Information
     _Why JavaScript programming is amazing
     _How to run a JavaScript script
     _How to create variables and constants
